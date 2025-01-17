@@ -4,6 +4,12 @@ IARP Tools and Resources
 
 This is a curated list of AI tools available, categorized into **Free** and **Paid** options. Each tool includes a brief description, key features, and a direct link to its site for easy access.
 
+Youtube:
+
+CS50-Introduction to computer science. 
+
+https://youtu.be/LfaMVlDaQ24?si=wkb8dxqqvkq4RD_D
+
 ---
 
 ## **Free AI Tools**
